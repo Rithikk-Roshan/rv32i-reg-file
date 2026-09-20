@@ -1,0 +1,20 @@
+# Vivado temporary files and directories
+*.jou
+*.log
+*.str
+*.backup*
+.Xil/
+hd_visual/
+*.sim/
+*.ip_user_files/
+*.hw/
+*.cache/
+*.runs/
+*.gen/
+
+# Retain project files
+!*.xpr
+!*.v
+!*.sv
+!*.xdc
+!*.md
